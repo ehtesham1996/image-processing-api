@@ -87,7 +87,7 @@ resource "aws_ecs_task_definition" "image_processing_task" {
         },
         {
           name  = "SES_EMAIL_SOURCE",
-          value = "ehteasham@gmail.com"
+          value = "xxxxx@xxxxx.com"
         },
         {
           name  = "SQS_POLLING_INTERVAL",
@@ -99,7 +99,7 @@ resource "aws_ecs_task_definition" "image_processing_task" {
         },
         {
           name  = "IMAGE_NOTIFICATION_RECIPIENTS",
-          value = "ehteasham@gmail.com"
+          value = "xxxxx@xxxx.com"
         }
       ],
       logConfiguration = {
