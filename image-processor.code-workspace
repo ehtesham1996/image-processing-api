@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "./web-api",
+      "name": "web-api"
+    },
+    {
+      "path": "./image-processing-service",
+      "name": "image-processing-service"
+    },
+    {
+      "path": "./infrastructure",
+      "name": "infrastructure"
+    }
+  ]
+}
